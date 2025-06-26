@@ -5,7 +5,6 @@
   "author": "Tarruck Wheeler",
   "license": "MIT",
   "private": true,
-  "homepage": "https://github.com/TarruckWheeler/monte-carlo-portfolio-optimizer",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TarruckWheeler/monte-carlo-portfolio-optimizer.git"
