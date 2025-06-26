@@ -1,2 +1,13 @@
 import React from 'react';
-export default function App() { return <h1 className="text-white p-6">Hello Monte Carlo!</h1>; }
+import MonteCarloTechFundingDashboard from './components/MonteCarloTechFundingDashboard';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <MonteCarloTechFundingDashboard />
+    </div>
+  );
+}
+
+export default App;
