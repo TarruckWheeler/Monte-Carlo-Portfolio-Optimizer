@@ -837,7 +837,7 @@ const MonteCarloTechFundingDashboard = () => {
                     </li>
                     <li className="flex items-start gap-2">
                       <Shield className="text-yellow-400 mt-0.5" size={16} />
-                      Rebalance when Sortino < 1.0
+                      Rebalance when Sortino &lt; 1.0
                     </li>
                   </ul>
                 </div>
