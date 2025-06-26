@@ -1,0 +1,45 @@
+{
+  "name": "monte-carlo-portfolio-optimizer",
+  "version": "2.0.0",
+  "description": "Advanced Monte Carlo simulation dashboard",
+  "author": "Tarruck Wheeler",
+  "license": "MIT",
+  "private": true,
+  "homepage": "https://github.com/TarruckWheeler/monte-carlo-portfolio-optimizer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarruckWheeler/monte-carlo-portfolio-optimizer.git"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.5.0",
+    "tailwindcss": "^3.3.0",
+    "lucide-react": "^0.263.1",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/user-event": "^14.4.3",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --coverage"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
